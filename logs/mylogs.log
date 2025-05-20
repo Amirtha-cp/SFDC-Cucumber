@@ -1,0 +1,12 @@
+20250513 01:16:42 DEBUG [main] Base.Hooks Hooks.java21 - 1100109058
+20250513 01:16:42 DEBUG [main] Base.Hooks Hooks.java22 - Hooks: initReport - Initializing extent report
+20250513 01:16:50 DEBUG [main] Base.Hooks Hooks.java42 - Hooks: endReport - Flushing extent report
+20250513 01:16:50 DEBUG [main] Base.Hooks Hooks.java21 - 1100109058
+20250513 01:16:50 DEBUG [main] Base.Hooks Hooks.java22 - Hooks: initReport - Initializing extent report
+20250513 01:16:58 DEBUG [main] Base.Hooks Hooks.java42 - Hooks: endReport - Flushing extent report
+20250513 01:16:58 DEBUG [main] Base.Hooks Hooks.java21 - 1100109058
+20250513 01:16:58 DEBUG [main] Base.Hooks Hooks.java22 - Hooks: initReport - Initializing extent report
+20250513 01:17:08 DEBUG [main] Base.Hooks Hooks.java42 - Hooks: endReport - Flushing extent report
+20250513 01:17:08 DEBUG [main] Base.Hooks Hooks.java21 - 1100109058
+20250513 01:17:08 DEBUG [main] Base.Hooks Hooks.java22 - Hooks: initReport - Initializing extent report
+20250513 01:17:21 DEBUG [main] Base.Hooks Hooks.java42 - Hooks: endReport - Flushing extent report
